@@ -6,6 +6,14 @@
   height: 40vmin;
   pointer-events: none;
 }
+.nav{
+  list-style: none;
+  color: red;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
